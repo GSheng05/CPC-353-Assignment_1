@@ -1,0 +1,11 @@
+search_term,included_forms,case_sensitive,context_words_each_side
+sedap,"sedap, sedapp, sedappp, sedapppppp",False,5
+pedas,pedas,False,5
+service,service,False,5
+tapi,tapi,False,5
+but,but,False,5
+repeat,repeat,False,5
+portion,portion,False,5
+refill,refill,False,5
+juicy,juicy,False,5
+worth,worth,False,5
