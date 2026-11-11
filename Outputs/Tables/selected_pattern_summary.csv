@@ -1,0 +1,9 @@
+﻿pattern_group,selected_passages,selected_reviews,example_review_ids,scope
+Alternating English and Malay clauses or phrases,2,2,"REV-008, REV-175",Purposively selected evidence; not corpus-wide pattern frequency
+English phrase + Malay evaluation,2,2,"REV-001, REV-005",Purposively selected evidence; not corpus-wide pattern frequency
+Malay evaluation followed by English recommendation,2,2,"REV-054, REV-130",Purposively selected evidence; not corpus-wide pattern frequency
+English evaluation followed by Malay evaluation,1,1,REV-132,Purposively selected evidence; not corpus-wide pattern frequency
+English return expression + Malay adverb,1,1,REV-018,Purposively selected evidence; not corpus-wide pattern frequency
+Language alternation across line breaks,1,1,REV-016,Purposively selected evidence; not corpus-wide pattern frequency
+Malay evaluation followed by English return expression,1,1,REV-006,Purposively selected evidence; not corpus-wide pattern frequency
+Mixed evaluation linked by tapi,1,1,REV-022,Purposively selected evidence; not corpus-wide pattern frequency

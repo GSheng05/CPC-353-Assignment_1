@@ -1,0 +1,8 @@
+﻿review_id,quote,primary_switching_type,observed_switch_type,function,interpretation,sentiment
+REV-006,"sedapppppp gileeeeee‼️ saya tiap minggu dengn kawan saya makan kat sini‼️layanan bagus, tempat pun selesa dan bersih, saya suka sangat ayam dia, lain dari ayam gepuk yang saya pernah makan, memang sedap ah‼️🤤 confirm repeat‼️🤩",Inter-sentential,Inter-sentential,Evaluation and intention to return,"Under the team's punctuation rule, the Malay evaluation ending 'memang sedap ah' is separated from English 'confirm repeat' by exclamation punctuation and an emoji.",Positive
+REV-016,"Ayam gepuk yang lazat
+Services tip top
+Sis puas hati",Inter-sentential,Inter-sentential,Evaluation,"The Malay line 'Ayam gepuk yang lazat' is followed by 'Services tip top' on a new line, then 'Sis puas hati'. This interpretation follows the existing annotation and the team's line-break convention.",Positive
+REV-054,sedap！！recommend,Inter-sentential,Inter-sentential,Evaluation and recommendation,Malay 'sedap' and English 'recommend' are separated by exclamation punctuation. This counts as inter-sentential under the team's convention allowing short evaluative fragments.,Positive
+REV-130,SEDAP GILA!!! Must try ok? All the way from sg and i love it so much! Worth the queue.,Inter-sentential,Inter-sentential,Evaluation and recommendation,Malay 'SEDAP GILA!!!' is followed by English 'Must try ok?'. The recommendation follows the taste evaluation across a sentence boundary.,Positive
+REV-132,Taste very delicious. Sangat sedap,Inter-sentential,Inter-sentential,Reiteration of evaluation,English 'Taste very delicious.' is followed by Malay 'Sangat sedap'. Both segments give a similar positive taste evaluation across a sentence boundary.,Positive
