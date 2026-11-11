@@ -1,5 +1,5 @@
-search_term,included_forms,case_sensitive,context_words_each_side
-sedap,"sedap, sedapp, sedappp, sedapppppp",False,5
+search_term,included_forms,case_sensitive,context_tokens_each_side
+sedap,sedap | sedapp | sedappp | sedapppppp,False,5
 pedas,pedas,False,5
 service,service,False,5
 tapi,tapi,False,5
