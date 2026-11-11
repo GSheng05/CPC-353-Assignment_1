@@ -1,0 +1,9 @@
+﻿search_term,pattern_group,confirmed_keyword_occurrences,distinct_reviews,example_review_ids
+portion,English noun + Malay quantity description,4,4,"REV-005, REV-011, REV-018, REV-027"
+portion,English noun + Malay evaluation,3,3,"REV-001, REV-020, REV-111"
+portion,English noun embedded in Malay wording,1,1,REV-123
+portion,English portion clause + Malay continuation,1,1,REV-003
+repeat,English verb embedded in Malay wording,10,9,"REV-009, REV-030, REV-068, REV-070, REV-076, REV-092, REV-104, REV-108, REV-128"
+repeat,Separate English return expression after Malay,3,3,"REV-006, REV-111, REV-120"
+repeat,English return expression + Malay wording,2,2,"REV-018, REV-097"
+repeat,Other confirmed construction,2,2,"REV-113, REV-160"
