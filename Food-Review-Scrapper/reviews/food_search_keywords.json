@@ -1,0 +1,42 @@
+{
+  "source": "https://github.com/AsyrafAzlan/SentiLexM",
+  "revision": "c69ad102448c93316d37e7c4f435df997f402941",
+  "keywords": [
+    "sedap",
+    "teruk",
+    "bagus",
+    "kecewa",
+    "terbaik",
+    "mengecewakan",
+    "lazat",
+    "hambar",
+    "puas",
+    "lambat",
+    "suka",
+    "mahal",
+    "nikmat",
+    "busuk",
+    "hebat",
+    "basi",
+    "murah",
+    "tagih",
+    "cantik",
+    "sedih",
+    "recommend",
+    "enjoy",
+    "disappointed",
+    "good",
+    "bad",
+    "average",
+    "pretty",
+    "worth",
+    "definitely"
+  ],
+  "supplemental_keywords": [
+    "mantap",
+    "tak sedap",
+    "tidak sedap",
+    "tawar",
+    "hangus"
+  ]
+}
