@@ -1,0 +1,7 @@
+﻿stage,count_or_claim,status,evidence_or_limitation
+Five main collection runs,275,Reported in shared report; unverified,Run manifests/raw exports not found in inspected workspace or Git history
+Approximate original collection,around 300,Reported in shared report; unverified,May be rounding or a different collection scope; cannot determine from available files
+Retained annotated reviews,197,Verified from source workbook,Self-Collected Data sheet; populated rows only
+Historical duplicates removed,,Unknown,A clean final dataset does not establish how many records were previously removed
+Historical empty reviews removed,,Unknown,Requires collection/cleaning records
+Historical other exclusions,,Unknown,Requires collection/cleaning records

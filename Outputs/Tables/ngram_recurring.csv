@@ -1,0 +1,708 @@
+﻿n,ngram,occurrences,distinct_reviews,review_percentage,review_denominator
+2,ayam gepuk,60,48,33.33,144
+2,it was,14,8,5.56,144
+2,kedai ni,13,10,6.94,144
+2,first time,12,9,6.25,144
+2,puas hati,11,10,6.94,144
+2,this is,11,9,6.25,144
+2,of the,11,8,5.56,144
+2,on the,11,6,4.17,144
+2,kobis goreng,10,9,6.25,144
+2,kubis goreng,10,8,5.56,144
+2,the sambal,10,7,4.86,144
+2,boleh tambah,9,9,6.25,144
+2,ayam dia,9,7,4.86,144
+2,dine in,8,8,5.56,144
+2,and sambal,8,7,4.86,144
+2,and the,8,7,4.86,144
+2,gepuk artisan,8,7,4.86,144
+2,tambah nasi,8,7,4.86,144
+2,gepuk macet,8,6,4.17,144
+2,the staff,8,4,2.78,144
+2,all the,7,7,4.86,144
+2,sambal dia,7,7,4.86,144
+2,sambal sedap,7,7,4.86,144
+2,add on,7,6,4.17,144
+2,i think,7,6,4.17,144
+2,is the,7,6,4.17,144
+2,the food,7,6,4.17,144
+2,to the,7,5,3.47,144
+2,take away,7,4,2.78,144
+2,level 1,7,2,1.39,144
+2,dia memang,6,6,4.17,144
+2,also very,6,5,3.47,144
+2,and this,6,5,3.47,144
+2,dekat sini,6,5,3.47,144
+2,it to,6,5,3.47,144
+2,sangat sedap,6,5,3.47,144
+2,my first,6,4,2.78,144
+2,to try,6,4,2.78,144
+2,and i,5,5,3.47,144
+2,biasa je,5,5,3.47,144
+2,kalau boleh,5,5,3.47,144
+2,makan pedas,5,5,3.47,144
+2,makanan sedap,5,5,3.47,144
+2,memang sedap,5,5,3.47,144
+2,nak makan,5,5,3.47,144
+2,nasi and,5,5,3.47,144
+2,one of,5,5,3.47,144
+2,pak gembus,5,5,3.47,144
+2,sambal and,5,5,3.47,144
+2,sedap tapi,5,5,3.47,144
+2,service bagus,5,5,3.47,144
+2,service pun,5,5,3.47,144
+2,tak boleh,5,5,3.47,144
+2,the chicken,5,5,3.47,144
+2,for me,5,4,2.78,144
+2,i was,5,4,2.78,144
+2,in the,5,4,2.78,144
+2,kurang pedas,5,4,2.78,144
+2,nasi lemak,5,4,2.78,144
+2,tak ada,5,4,2.78,144
+2,this place,5,4,2.78,144
+2,was not,5,4,2.78,144
+2,when i,5,4,2.78,144
+2,compared to,5,3,2.08,144
+2,makan di,5,3,2.08,144
+2,sambal level,5,3,2.08,144
+2,di sini,5,2,1.39,144
+2,a good,4,4,2.78,144
+2,and it,4,4,2.78,144
+2,apa pun,4,4,2.78,144
+2,ayam crispy,4,4,2.78,144
+2,ayam sedap,4,4,2.78,144
+2,but it,4,4,2.78,144
+2,but the,4,4,2.78,144
+2,chicken was,4,4,2.78,144
+2,crispy chicken,4,4,2.78,144
+2,di luar,4,4,2.78,144
+2,free refill,4,4,2.78,144
+2,gepuk lain,4,4,2.78,144
+2,harga pun,4,4,2.78,144
+2,i have,4,4,2.78,144
+2,i would,4,4,2.78,144
+2,kalau tak,4,4,2.78,144
+2,macam ni,4,4,2.78,144
+2,makan ayam,4,4,2.78,144
+2,next time,4,4,2.78,144
+2,paling best,4,4,2.78,144
+2,sambal kacang,4,4,2.78,144
+2,saya suka,4,4,2.78,144
+2,sedap and,4,4,2.78,144
+2,sedap ayam,4,4,2.78,144
+2,sedap sambal,4,4,2.78,144
+2,sedap sangat,4,4,2.78,144
+2,tak nak,4,4,2.78,144
+2,tapi sambal,4,4,2.78,144
+2,that i,4,4,2.78,144
+2,the best,4,4,2.78,144
+2,the queue,4,4,2.78,144
+2,tip top,4,4,2.78,144
+2,to be,4,4,2.78,144
+2,to say,4,4,2.78,144
+2,very good,4,4,2.78,144
+2,can be,4,3,2.08,144
+2,i asked,4,3,2.08,144
+2,i like,4,3,2.08,144
+2,is good,4,3,2.08,144
+2,memang pedas,4,3,2.08,144
+2,refill nasi,4,3,2.08,144
+2,tak cukup,4,3,2.08,144
+2,tak pernah,4,3,2.08,144
+2,tak puas,4,3,2.08,144
+2,tolong la,4,3,2.08,144
+2,waiting time,4,3,2.08,144
+2,you can,4,3,2.08,144
+2,a bit,4,2,1.39,144
+2,ala carte,4,2,1.39,144
+2,datang dah,4,2,1.39,144
+2,there are,4,2,1.39,144
+2,1st time,3,3,2.08,144
+2,a lot,3,3,2.08,144
+2,amount of,3,3,2.08,144
+2,and friendly,3,3,2.08,144
+2,at all,3,3,2.08,144
+2,ayam goreng,3,3,2.08,144
+2,ayam pun,3,3,2.08,144
+2,ayam tak,3,3,2.08,144
+2,best ayam,3,3,2.08,144
+2,boleh bagi,3,3,2.08,144
+2,boleh improve,3,3,2.08,144
+2,boleh refill,3,3,2.08,144
+2,but i,3,3,2.08,144
+2,chicken is,3,3,2.08,144
+2,come again,3,3,2.08,144
+2,confirm repeat,3,3,2.08,144
+2,customer service,3,3,2.08,144
+2,dah lama,3,3,2.08,144
+2,dah tak,3,3,2.08,144
+2,dan sangat,3,3,2.08,144
+2,dari ayam,3,3,2.08,144
+2,datang kedai,3,3,2.08,144
+2,datang makan,3,3,2.08,144
+2,datang sini,3,3,2.08,144
+2,dengan rakan,3,3,2.08,144
+2,dia tak,3,3,2.08,144
+2,extra pedas,3,3,2.08,144
+2,for those,3,3,2.08,144
+2,gepuk sedap,3,3,2.08,144
+2,goreng tempe,3,3,2.08,144
+2,goreng was,3,3,2.08,144
+2,highly recommended,3,3,2.08,144
+2,i can,3,3,2.08,144
+2,i ordered,3,3,2.08,144
+2,if you,3,3,2.08,144
+2,instead of,3,3,2.08,144
+2,is a,3,3,2.08,144
+2,is my,3,3,2.08,144
+2,it with,3,3,2.08,144
+2,je tapi,3,3,2.08,144
+2,kat sini,3,3,2.08,144
+2,kedai pun,3,3,2.08,144
+2,makan pun,3,3,2.08,144
+2,makan sini,3,3,2.08,144
+2,memang terbaik,3,3,2.08,144
+2,mmg sedap,3,3,2.08,144
+2,nak tunggu,3,3,2.08,144
+2,nasi lembut,3,3,2.08,144
+2,need to,3,3,2.08,144
+2,ni selalu,3,3,2.08,144
+2,not the,3,3,2.08,144
+2,ok tapi,3,3,2.08,144
+2,order dekat,3,3,2.08,144
+2,order set,3,3,2.08,144
+2,order tak,3,3,2.08,144
+2,our food,3,3,2.08,144
+2,padu gila,3,3,2.08,144
+2,peak hour,3,3,2.08,144
+2,pedas dia,3,3,2.08,144
+2,pernah makan,3,3,2.08,144
+2,place is,3,3,2.08,144
+2,pun bersih,3,3,2.08,144
+2,pun dah,3,3,2.08,144
+2,pun friendly,3,3,2.08,144
+2,pun okay,3,3,2.08,144
+2,pun tak,3,3,2.08,144
+2,rasa dia,3,3,2.08,144
+2,repeat again,3,3,2.08,144
+2,repeat lagi,3,3,2.08,144
+2,rice and,3,3,2.08,144
+2,sambal extra,3,3,2.08,144
+2,sambal free,3,3,2.08,144
+2,sambal pedas,3,3,2.08,144
+2,sebelum ni,3,3,2.08,144
+2,sedap dan,3,3,2.08,144
+2,service is,3,3,2.08,144
+2,service was,3,3,2.08,144
+2,set a,3,3,2.08,144
+2,so far,3,3,2.08,144
+2,so good,3,3,2.08,144
+2,so tak,3,3,2.08,144
+2,sorry to,3,3,2.08,144
+2,suka makan,3,3,2.08,144
+2,tak dapat,3,3,2.08,144
+2,tak pedas,3,3,2.08,144
+2,tak sedap,3,3,2.08,144
+2,tapi ayam,3,3,2.08,144
+2,tempat lain,3,3,2.08,144
+2,thank you,3,3,2.08,144
+2,the ayam,3,3,2.08,144
+2,the inside,3,3,2.08,144
+2,the outside,3,3,2.08,144
+2,the owner,3,3,2.08,144
+2,the spot,3,3,2.08,144
+2,this one,3,3,2.08,144
+2,this was,3,3,2.08,144
+2,time makan,3,3,2.08,144
+2,to eat,3,3,2.08,144
+2,top global,3,3,2.08,144
+2,tu pun,3,3,2.08,144
+2,was my,3,3,2.08,144
+2,was so,3,3,2.08,144
+2,which is,3,3,2.08,144
+2,which was,3,3,2.08,144
+2,will come,3,3,2.08,144
+2,will repeat,3,3,2.08,144
+2,with a,3,3,2.08,144
+2,with that,3,3,2.08,144
+2,with the,3,3,2.08,144
+2,yang suka,3,3,2.08,144
+2,45 minutes,3,2,1.39,144
+2,and ayam,3,2,1.39,144
+2,at the,3,2,1.39,144
+2,because it,3,2,1.39,144
+2,dan sambal,3,2,1.39,144
+2,goreng dia,3,2,1.39,144
+2,he said,3,2,1.39,144
+2,i tak,3,2,1.39,144
+2,im not,3,2,1.39,144
+2,kalau nak,3,2,1.39,144
+2,kat luar,3,2,1.39,144
+2,kaunter tu,3,2,1.39,144
+2,make sure,3,2,1.39,144
+2,nasi ayam,3,2,1.39,144
+2,order online,3,2,1.39,144
+2,rakan sekerja,3,2,1.39,144
+2,ramai orang,3,2,1.39,144
+2,saya pun,3,2,1.39,144
+2,service teruk,3,2,1.39,144
+2,tapi harini,3,2,1.39,144
+2,time here,3,2,1.39,144
+2,very well,3,2,1.39,144
+2,was also,3,2,1.39,144
+2,was good,3,2,1.39,144
+2,a nice,2,2,1.39,144
+2,a very,2,2,1.39,144
+2,about the,2,2,1.39,144
+2,ada 3,2,2,1.39,144
+2,ada air,2,2,1.39,144
+2,ada tapi,2,2,1.39,144
+2,agak mahal,2,2,1.39,144
+2,air and,2,2,1.39,144
+2,also got,2,2,1.39,144
+2,ambik order,2,2,1.39,144
+2,an additional,2,2,1.39,144
+2,and a,2,2,1.39,144
+2,and cabbage,2,2,1.39,144
+2,and for,2,2,1.39,144
+2,and just,2,2,1.39,144
+2,and on,2,2,1.39,144
+2,and since,2,2,1.39,144
+2,and so,2,2,1.39,144
+2,and tender,2,2,1.39,144
+2,and they,2,2,1.39,144
+2,and value,2,2,1.39,144
+2,and was,2,2,1.39,144
+2,and you,2,2,1.39,144
+2,apa apa,2,2,1.39,144
+2,ask for,2,2,1.39,144
+2,atas meja,2,2,1.39,144
+2,away pun,2,2,1.39,144
+2,ayam berempah,2,2,1.39,144
+2,ayam besar,2,2,1.39,144
+2,ayam fresh,2,2,1.39,144
+2,ayam keras,2,2,1.39,144
+2,ayam memang,2,2,1.39,144
+2,ayam penyet,2,2,1.39,144
+2,ayam rangup,2,2,1.39,144
+2,ayam tidak,2,2,1.39,144
+2,bad day,2,2,1.39,144
+2,bagi saya,2,2,1.39,144
+2,banyak sangat,2,2,1.39,144
+2,bayam goreng,2,2,1.39,144
+2,bayar mahal,2,2,1.39,144
+2,be a,2,2,1.39,144
+2,beberapa kali,2,2,1.39,144
+2,because i,2,2,1.39,144
+2,before this,2,2,1.39,144
+2,beli gepuk,2,2,1.39,144
+2,beli tak,2,2,1.39,144
+2,beratur panjang,2,2,1.39,144
+2,besar nasi,2,2,1.39,144
+2,besar sikit,2,2,1.39,144
+2,bila dah,2,2,1.39,144
+2,boleh la,2,2,1.39,144
+2,boleh makan,2,2,1.39,144
+2,branch ni,2,2,1.39,144
+2,but for,2,2,1.39,144
+2,but overall,2,2,1.39,144
+2,but surprisingly,2,2,1.39,144
+2,but this,2,2,1.39,144
+2,but very,2,2,1.39,144
+2,cakap ni,2,2,1.39,144
+2,came to,2,2,1.39,144
+2,chicken really,2,2,1.39,144
+2,chow kit,2,2,1.39,144
+2,come here,2,2,1.39,144
+2,come to,2,2,1.39,144
+2,coming back,2,2,1.39,144
+2,creamy and,2,2,1.39,144
+2,crispy on,2,2,1.39,144
+2,cuba ayam,2,2,1.39,144
+2,cukup pedas,2,2,1.39,144
+2,cuma i,2,2,1.39,144
+2,dah repeat,2,2,1.39,144
+2,dah sampai,2,2,1.39,144
+2,dan memang,2,2,1.39,144
+2,dan sedap,2,2,1.39,144
+2,dari owner,2,2,1.39,144
+2,dari segi,2,2,1.39,144
+2,datang dengan,2,2,1.39,144
+2,dengan nasi,2,2,1.39,144
+2,dia besar,2,2,1.39,144
+2,dia sedap,2,2,1.39,144
+2,doing this,2,2,1.39,144
+2,don't know,2,2,1.39,144
+2,duduk di,2,2,1.39,144
+2,ended up,2,2,1.39,144
+2,enjoy makan,2,2,1.39,144
+2,fast food,2,2,1.39,144
+2,food but,2,2,1.39,144
+2,food sedap,2,2,1.39,144
+2,food to,2,2,1.39,144
+2,for a,2,2,1.39,144
+2,for an,2,2,1.39,144
+2,for dinner,2,2,1.39,144
+2,for gepuk,2,2,1.39,144
+2,for money,2,2,1.39,144
+2,for more,2,2,1.39,144
+2,for one,2,2,1.39,144
+2,for sambal,2,2,1.39,144
+2,for what,2,2,1.39,144
+2,for you,2,2,1.39,144
+2,for your,2,2,1.39,144
+2,fried kangkung,2,2,1.39,144
+2,friendly and,2,2,1.39,144
+2,from the,2,2,1.39,144
+2,gajus was,2,2,1.39,144
+2,gepuk and,2,2,1.39,144
+2,gepuk i,2,2,1.39,144
+2,gepuk paling,2,2,1.39,144
+2,gepuk sambal,2,2,1.39,144
+2,gepuk that,2,2,1.39,144
+2,gepuk yang,2,2,1.39,144
+2,go try,2,2,1.39,144
+2,good job,2,2,1.39,144
+2,goreng tak,2,2,1.39,144
+2,great but,2,2,1.39,144
+2,had a,2,2,1.39,144
+2,ham leng,2,2,1.39,144
+2,harap pihak,2,2,1.39,144
+2,harini datang,2,2,1.39,144
+2,have to,2,2,1.39,144
+2,how many,2,2,1.39,144
+2,i could,2,2,1.39,144
+2,i ended,2,2,1.39,144
+2,i had,2,2,1.39,144
+2,i love,2,2,1.39,144
+2,i nak,2,2,1.39,144
+2,i tanya,2,2,1.39,144
+2,i'm not,2,2,1.39,144
+2,if the,2,2,1.39,144
+2,in a,2,2,1.39,144
+2,in boleh,2,2,1.39,144
+2,in my,2,2,1.39,144
+2,is also,2,2,1.39,144
+2,is one,2,2,1.39,144
+2,is quite,2,2,1.39,144
+2,is so,2,2,1.39,144
+2,is superb,2,2,1.39,144
+2,it really,2,2,1.39,144
+2,jaga cashier,2,2,1.39,144
+2,je tak,2,2,1.39,144
+2,juicy and,2,2,1.39,144
+2,just nice,2,2,1.39,144
+2,kalau ada,2,2,1.39,144
+2,kalau korang,2,2,1.39,144
+2,kami harini,2,2,1.39,144
+2,kangkung and,2,2,1.39,144
+2,kangkung goreng,2,2,1.39,144
+2,kat dalam,2,2,1.39,144
+2,kat kaunter,2,2,1.39,144
+2,kecewa gila,2,2,1.39,144
+2,kedai cantik,2,2,1.39,144
+2,kedai dah,2,2,1.39,144
+2,kedai lain,2,2,1.39,144
+2,kedai tak,2,2,1.39,144
+2,keep it,2,2,1.39,144
+2,kena add,2,2,1.39,144
+2,kena bayar,2,2,1.39,144
+2,kena tambah,2,2,1.39,144
+2,kicap manis,2,2,1.39,144
+2,kita repeat,2,2,1.39,144
+2,know the,2,2,1.39,144
+2,know what,2,2,1.39,144
+2,lain dari,2,2,1.39,144
+2,lama gila,2,2,1.39,144
+2,lambat sangat,2,2,1.39,144
+2,lebih kurang,2,2,1.39,144
+2,leng chat,2,2,1.39,144
+2,lepas makan,2,2,1.39,144
+2,level 3,2,2,1.39,144
+2,like the,2,2,1.39,144
+2,lot of,2,2,1.39,144
+2,love for,2,2,1.39,144
+2,love it,2,2,1.39,144
+2,macam tak,2,2,1.39,144
+2,makan dengan,2,2,1.39,144
+2,makan dkt,2,2,1.39,144
+2,makan free,2,2,1.39,144
+2,makan kedai,2,2,1.39,144
+2,makan nasi,2,2,1.39,144
+2,makanan dia,2,2,1.39,144
+2,makanan ok,2,2,1.39,144
+2,makanan pun,2,2,1.39,144
+2,makanan tak,2,2,1.39,144
+2,mana nak,2,2,1.39,144
+2,many times,2,2,1.39,144
+2,me keep,2,2,1.39,144
+2,memang dah,2,2,1.39,144
+2,memang padu,2,2,1.39,144
+2,memang puas,2,2,1.39,144
+2,mintak refill,2,2,1.39,144
+2,minutes for,2,2,1.39,144
+2,mmg kena,2,2,1.39,144
+2,mushrooms were,2,2,1.39,144
+2,my favourite,2,2,1.39,144
+2,my friend,2,2,1.39,144
+2,my opinion,2,2,1.39,144
+2,my rice,2,2,1.39,144
+2,nak bayar,2,2,1.39,144
+2,nasi pun,2,2,1.39,144
+2,nasib baik,2,2,1.39,144
+2,ni pun,2,2,1.39,144
+2,ni tak,2,2,1.39,144
+2,nk tambah,2,2,1.39,144
+2,not bad,2,2,1.39,144
+2,not very,2,2,1.39,144
+2,of all,2,2,1.39,144
+2,of food,2,2,1.39,144
+2,okay je,2,2,1.39,144
+2,on point,2,2,1.39,144
+2,on top,2,2,1.39,144
+2,one table,2,2,1.39,144
+2,only one,2,2,1.39,144
+2,orang yg,2,2,1.39,144
+2,out there,2,2,1.39,144
+2,overall i,2,2,1.39,144
+2,overall memang,2,2,1.39,144
+2,owner pun,2,2,1.39,144
+2,pedas sangat,2,2,1.39,144
+2,pedas tu,2,2,1.39,144
+2,pergi kedai,2,2,1.39,144
+2,pergi pukul,2,2,1.39,144
+2,pernah datang,2,2,1.39,144
+2,please la,2,2,1.39,144
+2,portion besar,2,2,1.39,144
+2,portion puas,2,2,1.39,144
+2,prefer it,2,2,1.39,144
+2,pun sebab,2,2,1.39,144
+2,pun selesa,2,2,1.39,144
+2,pun still,2,2,1.39,144
+2,pun tip,2,2,1.39,144
+2,rangup di,2,2,1.39,144
+2,rasa kosong,2,2,1.39,144
+2,rasa sambal,2,2,1.39,144
+2,rasanya orang,2,2,1.39,144
+2,rather than,2,2,1.39,144
+2,really a,2,2,1.39,144
+2,really good,2,2,1.39,144
+2,really know,2,2,1.39,144
+2,refill sambal,2,2,1.39,144
+2,repeat makan,2,2,1.39,144
+2,sambal gajus,2,2,1.39,144
+2,sambal is,2,2,1.39,144
+2,sambal not,2,2,1.39,144
+2,sambal padu,2,2,1.39,144
+2,sampai tak,2,2,1.39,144
+2,sangat ayam,2,2,1.39,144
+2,sangat lambat,2,2,1.39,144
+2,savoury and,2,2,1.39,144
+2,saya dah,2,2,1.39,144
+2,saya datang,2,2,1.39,144
+2,saya memang,2,2,1.39,144
+2,saya order,2,2,1.39,144
+2,sbb ada,2,2,1.39,144
+2,sebab ayam,2,2,1.39,144
+2,sebab nak,2,2,1.39,144
+2,sebab tak,2,2,1.39,144
+2,sebab tempat,2,2,1.39,144
+2,sedap gila,2,2,1.39,144
+2,sedap tu,2,2,1.39,144
+2,semua ayam,2,2,1.39,144
+2,service agak,2,2,1.39,144
+2,service laju,2,2,1.39,144
+2,service sangat,2,2,1.39,144
+2,service terbaik,2,2,1.39,144
+2,service tiptop,2,2,1.39,144
+2,servis bagus,2,2,1.39,144
+2,sesiapa yang,2,2,1.39,144
+2,set and,2,2,1.39,144
+2,shop is,2,2,1.39,144
+2,sikit sangat,2,2,1.39,144
+2,sikit sebab,2,2,1.39,144
+2,since i,2,2,1.39,144
+2,sini memang,2,2,1.39,144
+2,staff dia,2,2,1.39,144
+2,staff friendly,2,2,1.39,144
+2,staff pun,2,2,1.39,144
+2,staffs are,2,2,1.39,144
+2,susah sikit,2,2,1.39,144
+2,tak bagi,2,2,1.39,144
+2,tak crispy,2,2,1.39,144
+2,tak mahal,2,2,1.39,144
+2,tak mengecewakan,2,2,1.39,144
+2,tak menyesal,2,2,1.39,144
+2,tak ramai,2,2,1.39,144
+2,tak rasa,2,2,1.39,144
+2,tak suka,2,2,1.39,144
+2,takde rasa,2,2,1.39,144
+2,tanya la,2,2,1.39,144
+2,tapi jangan,2,2,1.39,144
+2,tapi kalau,2,2,1.39,144
+2,tapi kedai,2,2,1.39,144
+2,tapi ramai,2,2,1.39,144
+2,tapi tak,2,2,1.39,144
+2,taste good,2,2,1.39,144
+2,taste is,2,2,1.39,144
+2,telur mata,2,2,1.39,144
+2,tempat kerja,2,2,1.39,144
+2,tempat ni,2,2,1.39,144
+2,tempat pun,2,2,1.39,144
+2,tempat yang,2,2,1.39,144
+2,tempe tauhu,2,2,1.39,144
+2,tengah makan,2,2,1.39,144
+2,terbaik dari,2,2,1.39,144
+2,terbaik di,2,2,1.39,144
+2,terbaik untuk,2,2,1.39,144
+2,than the,2,2,1.39,144
+2,thats why,2,2,1.39,144
+2,the dish,2,2,1.39,144
+2,the experience,2,2,1.39,144
+2,the gajus,2,2,1.39,144
+2,the manager,2,2,1.39,144
+2,the only,2,2,1.39,144
+2,the place,2,2,1.39,144
+2,the rice,2,2,1.39,144
+2,the time,2,2,1.39,144
+2,the way,2,2,1.39,144
+2,they will,2,2,1.39,144
+2,think i,2,2,1.39,144
+2,this ayam,2,2,1.39,144
+2,this pernah,2,2,1.39,144
+2,this restaurant,2,2,1.39,144
+2,those who,2,2,1.39,144
+2,tiap minggu,2,2,1.39,144
+2,time and,2,2,1.39,144
+2,time trying,2,2,1.39,144
+2,to get,2,2,1.39,144
+2,to me,2,2,1.39,144
+2,to other,2,2,1.39,144
+2,to your,2,2,1.39,144
+2,try it,2,2,1.39,144
+2,try sambal,2,2,1.39,144
+2,tu rasa,2,2,1.39,144
+2,tu tak,2,2,1.39,144
+2,tu tolong,2,2,1.39,144
+2,tukar ayam,2,2,1.39,144
+2,tunggu lama,2,2,1.39,144
+2,tunggu makanan,2,2,1.39,144
+2,value for,2,2,1.39,144
+2,very nice,2,2,1.39,144
+2,wait time,2,2,1.39,144
+2,walaupun ramai,2,2,1.39,144
+2,warm and,2,2,1.39,144
+2,was a,2,2,1.39,144
+2,was expecting,2,2,1.39,144
+2,was great,2,2,1.39,144
+2,went to,2,2,1.39,144
+2,were friendly,2,2,1.39,144
+2,will definitely,2,2,1.39,144
+2,worth it,2,2,1.39,144
+2,worth the,2,2,1.39,144
+2,would definitely,2,2,1.39,144
+2,yang nak,2,2,1.39,144
+2,yang paling,2,2,1.39,144
+2,yg jaga,2,2,1.39,144
+2,you get,2,2,1.39,144
+2,you know,2,2,1.39,144
+2,you want,2,2,1.39,144
+3,ayam gepuk macet,8,6,4.17,144
+3,ayam gepuk artisan,5,5,3.47,144
+3,boleh tambah nasi,5,5,3.47,144
+3,nasi and sambal,5,5,3.47,144
+3,and it was,4,4,2.78,144
+3,makan ayam gepuk,4,4,2.78,144
+3,tak puas hati,4,3,2.08,144
+3,makan di sini,4,2,1.39,144
+3,my first time,4,2,1.39,144
+3,and sambal free,3,3,2.08,144
+3,and this is,3,3,2.08,144
+3,ayam gepuk lain,3,3,2.08,144
+3,ayam gepuk sedap,3,3,2.08,144
+3,it to be,3,3,2.08,144
+3,it was so,3,3,2.08,144
+3,kedai pun bersih,3,3,2.08,144
+3,on the inside,3,3,2.08,144
+3,on the outside,3,3,2.08,144
+3,one of the,3,3,2.08,144
+3,sorry to say,3,3,2.08,144
+3,this is my,3,3,2.08,144
+3,this is the,3,3,2.08,144
+3,because it was,3,2,1.39,144
+3,sambal level 1,3,2,1.39,144
+3,a lot of,2,2,1.39,144
+3,also very well,2,2,1.39,144
+3,and the manager,2,2,1.39,144
+3,and value for,2,2,1.39,144
+3,ayam dia besar,2,2,1.39,144
+3,ayam gepuk and,2,2,1.39,144
+3,ayam gepuk i,2,2,1.39,144
+3,ayam gepuk that,2,2,1.39,144
+3,ayam gepuk yang,2,2,1.39,144
+3,before this pernah,2,2,1.39,144
+3,besar nasi pun,2,2,1.39,144
+3,best ayam gepuk,2,2,1.39,144
+3,boleh refill nasi,2,2,1.39,144
+3,but it was,2,2,1.39,144
+3,came to try,2,2,1.39,144
+3,crispy on the,2,2,1.39,144
+3,cuba ayam gepuk,2,2,1.39,144
+3,dari ayam gepuk,2,2,1.39,144
+3,datang dengan rakan,2,2,1.39,144
+3,datang kedai ni,2,2,1.39,144
+3,dengan rakan sekerja,2,2,1.39,144
+3,dine in boleh,2,2,1.39,144
+3,first time makan,2,2,1.39,144
+3,for an additional,2,2,1.39,144
+3,for those who,2,2,1.39,144
+3,ham leng chat,2,2,1.39,144
+3,harga pun okay,2,2,1.39,144
+3,i ended up,2,2,1.39,144
+3,i like the,2,2,1.39,144
+3,i think i,2,2,1.39,144
+3,i was expecting,2,2,1.39,144
+3,in boleh tambah,2,2,1.39,144
+3,in my opinion,2,2,1.39,144
+3,is my first,2,2,1.39,144
+3,is one of,2,2,1.39,144
+3,it was my,2,2,1.39,144
+3,it was not,2,2,1.39,144
+3,kalau boleh bagi,2,2,1.39,144
+3,kangkung and cabbage,2,2,1.39,144
+3,kat sini memang,2,2,1.39,144
+3,kedai ni pun,2,2,1.39,144
+3,kedai ni selalu,2,2,1.39,144
+3,kena add on,2,2,1.39,144
+3,kobis goreng tempe,2,2,1.39,144
+3,lain dari ayam,2,2,1.39,144
+3,makan kedai ni,2,2,1.39,144
+3,makanan ok tapi,2,2,1.39,144
+3,memang puas hati,2,2,1.39,144
+3,of the best,2,2,1.39,144
+3,portion puas hati,2,2,1.39,144
+3,prefer it to,2,2,1.39,144
+3,pun tip top,2,2,1.39,144
+3,rangup di luar,2,2,1.39,144
+3,refill nasi and,2,2,1.39,144
+3,sambal dia memang,2,2,1.39,144
+3,sambal padu gila,2,2,1.39,144
+3,sambal sedap sangat,2,2,1.39,144
+3,sangat ayam dia,2,2,1.39,144
+3,saya suka makan,2,2,1.39,144
+3,sedap tapi harini,2,2,1.39,144
+3,semua ayam gepuk,2,2,1.39,144
+3,tak boleh makan,2,2,1.39,144
+3,take away pun,2,2,1.39,144
+3,tempat pun selesa,2,2,1.39,144
+3,the best ayam,2,2,1.39,144
+3,the chicken is,2,2,1.39,144
+3,the chicken was,2,2,1.39,144
+3,this ayam gepuk,2,2,1.39,144
+3,this place is,2,2,1.39,144
+3,value for money,2,2,1.39,144
+3,was my first,2,2,1.39,144
+3,were friendly and,2,2,1.39,144
+3,will come again,2,2,1.39,144
+3,will repeat again,2,2,1.39,144
+3,yg jaga cashier,2,2,1.39,144
