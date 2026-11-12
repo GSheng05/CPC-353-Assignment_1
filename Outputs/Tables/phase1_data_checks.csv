@@ -1,0 +1,7 @@
+check,count
+retained_reviews_checked,197
+blank_review_texts,0
+blank_review_ids,0
+duplicate_id_excess_rows,0
+exact_duplicate_text_excess_rows,0
+normalised_duplicate_text_excess_rows,0

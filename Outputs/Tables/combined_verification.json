@@ -1,0 +1,20 @@
+{
+  "execution": "39 Python cells executed sequentially in a fresh process on a temporary copy using matplotlib Agg. Jupyter kernel execution remains pending.",
+  "source_commit": "46604c8",
+  "python": "3.14.0",
+  "packages": {
+    "pandas": "3.0.5",
+    "openpyxl": "3.1.5",
+    "matplotlib": "3.10.8"
+  },
+  "existing_csv_comparison": "Sentiment by switching counts, n-gram top 20, contextual expression summary and focused evidence status summary matched. The focused concordance chart regenerated.",
+  "source_and_review_inputs": "SHA-256 checks passed",
+  "phase3_occurrences": 22,
+  "phase3_expressions": 6,
+  "integrated_passages_validated": 12,
+  "limitations": [
+    "Collection manifests and raw exports unavailable",
+    "New contextual interpretations pending team review",
+    "Jupyter packages unavailable; installation attempt did not finish"
+  ]
+}

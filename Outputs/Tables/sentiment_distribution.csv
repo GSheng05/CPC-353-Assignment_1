@@ -1,0 +1,4 @@
+﻿sentiment,review_count,percentage,denominator
+Positive,115,58.38,197
+Negative,56,28.43,197
+Neutral,26,13.2,197
