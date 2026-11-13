@@ -2,11 +2,11 @@
 
 ## Project overview
 
-This project studies English–Malay code-switching in Ayam Gepuk restaurant reviews. Member 1 (M1) examines switching patterns and their use in context. Member 2 (M2) examines sentiment and its relationship with switching types.
+This project studies English–Malay code-switching in Ayam Gepuk restaurant reviews. The concordance analysis examines switching patterns and their use in context. The sentiment analysis examines sentiment and its relationship with switching types.
 
 The annotated dataset version previously reviewed contained **197 real Google reviews**: 144 code-switched, 36 English, and 17 Malay. The 144 code-switched reviews had 139 intra-sentential and 5 inter-sentential primary labels. Recheck these counts against the dataset used for the final analysis.
 
-## M1 work
+## Concordance analysis
 
 - Loaded the annotated dataset while preserving review text, source information, and existing labels.
 - Checked for missing values, duplicate IDs, and exact duplicate review texts.
@@ -33,7 +33,7 @@ Primary-label counts describe review classifications, not every switching event.
 Data/
   CPC 353 Dataset.xlsx              # Annotated source dataset
 Notebooks/
-  Concordance_Analysis.ipynb        # M1 analysis notebook
+  Concordance_Analysis.ipynb        # Concordance analysis notebook
 Outputs/
   Tables/                           # Calculated and reviewed tables
   Figures/                          # Analysis figures
@@ -41,7 +41,7 @@ Outputs/
 
 The source workbook is read-only for this workflow. Save derived results separately and preserve manually reviewed workbooks when rerunning cells.
 
-## Outputs for M2
+## Outputs for sentiment analysis
 
 The following files were present in the repository when it was checked:
 
@@ -56,9 +56,9 @@ The following files were present in the repository when it was checked:
 
 The repository includes reviewed selected evidence, pattern summaries, all five inter-sentential cases, a six-entry bilingual lexicon and eight selected quotations. Focused concordance outputs cover 34 hits for repeat and portion; 26 were marked Confirmed and eight No local switching.
 
-## Handoff to M2
+## Connecting concordance and sentiment analysis
 
-1. Use the same final dataset, review IDs, and primary switching labels as M1.
+1. Use the same final dataset, review IDs, and primary switching labels as the concordance analysis.
 2. Retain the existing Positive, Negative, and Neutral sentiment labels and annotation notes.
 3. Compare sentiment across the existing switching categories and clearly state the denominator for each comparison.
 4. Use the concordance examples and quotations to discuss how specific switching patterns occur in evaluative contexts.
