@@ -5,7 +5,7 @@ import re
 import time
 from pathlib import Path
 from urllib.error import HTTPError, URLError
-from urllib.parse import unquote, urlencode, urlsplit
+from urllib.parse import unquote, urlencode
 from urllib.request import Request, urlopen
 
 from .core import Review, platform_for
