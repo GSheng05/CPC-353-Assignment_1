@@ -1,8 +1,8 @@
 # Food Review Collector
 
 A separate, history-preserving derivative of [GSheng05/Web-Scrapper](https://github.com/GSheng05/Web-Scrapper).
-The original crawler modules (`crawl.py`, `main.py`, `json_report.py`) remain unchanged.
-Their usage is in [README-crawler.md](README-crawler.md).
+The unrelated generic crawler is preserved under `../Archive/Food-Review-Scrapper/`.
+Its usage is in [README-crawler.md](../Archive/Food-Review-Scrapper/README-crawler.md).
 
 Give the new collector a Google Maps restaurant URL or Shopee food-product URL. It attempts to walk the reviews exposed by the website and exports:
 
@@ -18,7 +18,7 @@ Review ID, review URL and product category are not exported. Source IDs are held
 
 ## Install (Python 3.10+)
 
-The review collector has a separate environment/dependency file so the original crawler configuration is preserved. Its original `pyproject.toml` requires Python 3.14; these commands deliberately do not use that configuration.
+Use the collector requirements below in a separate environment from the analysis notebook. The archived generic crawler has its own configuration and is not required for collection.
 
 ```powershell
 py -3.12 -m venv .venv
